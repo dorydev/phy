@@ -1,0 +1,15 @@
+{
+  "originHash" : "cf65c981dd3aa3b791c135d75b2112fef2ee5d9ffee1c9ff4c9de2ae2fb623d6",
+  "pins" : [
+    {
+      "identity" : "notchmyproblem",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Aeastr/NotchMyProblem",
+      "state" : {
+        "revision" : "0e9cda20a47f461ad74fbb346dc64bd87fafe458",
+        "version" : "2.0.2"
+      }
+    }
+  ],
+  "version" : 3
+}
