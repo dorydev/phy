@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/dorydev/phy/main/assets/Fibo-AppIcon.svg?sanitize=true" alt="Logo" width="200">     
+<p align="center">
+  <img src="assets/Fibo-AppIcon.svg" alt="Logo de Phy : Fibo" width="200" />
+</p>
 
 # Phy - Notch integrated app for research
 
